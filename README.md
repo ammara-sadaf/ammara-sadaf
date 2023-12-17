@@ -4,7 +4,7 @@
 🖤 I love Python and JavaScript<br>
 📊 I'm currently learning Data Science<br>
 👀️ I'm looking to collaborate on open source.<br>
-🌎 You can reach me on [LinkedIn](www.linkedin.com/in/ammara-sadaf).<br>
+🌎 You can reach me on 
 
 This is my life's motto:
 
